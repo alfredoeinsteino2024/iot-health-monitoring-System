@@ -145,18 +145,6 @@ Install all of these via **Arduino IDE Library Manager**:
 | **Group Leader** | Toluwanimi Alfred Fadipe |
 | **Member** |  Abbas Abdullahi  |
 | **Member** |  Carol Audu bandekaji |
-| **Member** | [Name 4] |
-| **Member** | [Name 5] |
-| **Member** | [Name 6] |
-| **Member** | [Name 7] |
-| **Member** | [Name 8] |
-| **Member** | [Name 9] |
-| **Member** | [Name 10] |
-| **Member** | [Name 11] |
-| **Member** | [Name 12] |
-| **Member** | [Name 13] |
-| **Member** | [Name 14] |
-| **Member** | [Name 15] |
 
 ---
 
