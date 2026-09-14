@@ -26,8 +26,8 @@ char ssid[] = "EINSTEIN-ROSEN BRIDGE";
 char pass[] = "I LOVE YOU";
 
 // -------- TWILIO --------
-const char* twilio_sid   = "AC4a4f4e7d96127c3e1c66b9a035544db8";
-const char* twilio_token = "09ad2d03bc5a19d6ddaa3e92aa9df5cb";
+const char* twilio_sid   = "ACXXXXXXXXXXXXXXXXXXXXXXXXXb8";
+const char* twilio_token = "09XXXXXXXXXXXXXXXXXXXXXXXdf5cb";
 const char* from_number  = "+12182316531";
 const char* to_number    = "+2349016115583";
 
